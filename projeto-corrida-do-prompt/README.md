@@ -10,7 +10,7 @@ O trabalho foi desenvolvido como atividade prática para compreender o funcionam
 📌 Autores do projeto:
 
 Felipe Henrique Duranes Rodrigues
-Vitor da Silva Bonilha
+e Vitor da Silva Bonilha
 🧠 Exemplos de Prompts Utilizados
 🎨 Prompts de Geração de Imagem
 
