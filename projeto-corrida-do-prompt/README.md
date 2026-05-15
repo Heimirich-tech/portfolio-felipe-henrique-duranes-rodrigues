@@ -66,3 +66,160 @@ Compare os resultados gerados em cada etapa.
 📌 Conclusão
 
 A atividade demonstrou que a engenharia de prompts é uma habilidade essencial ao utilizar Inteligência Artificial. Ao estruturar melhor os comandos e refiná-los progressivamente, é possível obter resultados mais precisos, criativos e alinhados com o objetivo desejado.
+
+# 🧠 A Corrida do Prompt
+### Experimentos de Engenharia de Prompt com Inteligência Artificial
+
+<p align="center">
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Disciplina](https://img.shields.io/badge/disciplina-Inteligência%20Artificial-blue)
+![Tema](https://img.shields.io/badge/tema-Engenharia%20de%20Prompt-purple)
+![Tipo](https://img.shields.io/badge/tipo-projeto%20acadêmico-orange)
+
+</p>
+
+---
+
+# 📌 Sobre o Projeto
+
+**A Corrida do Prompt** é uma atividade prática voltada para o estudo de **Engenharia de Prompt**, explorando como diferentes instruções influenciam diretamente nas respostas geradas por modelos de Inteligência Artificial.
+
+O projeto investiga como **pequenas modificações em um prompt podem alterar significativamente os resultados**, tanto em geração de imagens quanto em geração de textos.
+
+A proposta demonstra na prática como estruturar prompts mais eficientes, claros e criativos ao interagir com sistemas de IA.
+
+Este trabalho foi desenvolvido como parte da disciplina de **Inteligência Artificial**, com foco na exploração de **modelos generativos e técnicas de refinamento de prompt**.
+
+---
+
+# 🎯 Objetivos
+
+- Compreender como a **engenharia de prompt influencia os resultados da IA**
+- Experimentar **refinamentos progressivos de prompts**
+- Avaliar como **detalhes adicionais alteram a geração de conteúdo**
+- Explorar o uso criativo de **modelos generativos de texto e imagem**
+
+---
+
+# 🧪 Experimentos Realizados
+
+Durante a atividade, diversos prompts foram testados e refinados progressivamente.
+
+### 🎨 Geração de Imagem
+
+**Prompt inicial**
+
+
+Faça uma imagem de um astronauta estilo barroco tocando violoncelo em Marte,
+e que esse astronauta seja o Adam Sandler.
+
+
+**Refinamento 1**
+
+
+Adicione um alien tocando piano no fundo.
+
+
+**Refinamento 2**
+
+
+Adicione Neymar Jr levantando a taça da Copa do Mundo no fundo.
+
+
+**Refinamento 3**
+
+
+Adicione o uniforme da seleção brasileira no Neymar.
+
+
+Esses refinamentos demonstram como **a complexidade da cena pode ser controlada através da evolução do prompt**.
+
+---
+
+# ✉️ Geração de Texto
+
+Também foi realizado um experimento de geração textual.
+
+### Prompt
+
+
+Escreva um email formal de desculpas de um pirata para um rei,
+utilizando linguagem antiga e formal.
+
+
+Esse exercício teve como objetivo observar como a IA:
+
+- adapta **tom e estilo de escrita**
+- segue **contextos narrativos específicos**
+- cria **personagens e cenários coerentes**
+
+---
+
+# 🧠 Principais Aprendizados
+
+Durante o desenvolvimento da atividade, foi possível identificar diversos pontos importantes:
+
+### 🔹 Refinamento Iterativo
+A melhoria de um prompt ocorre através de **iterações e ajustes progressivos**.
+
+### 🔹 Clareza nas Instruções
+Prompts claros produzem **respostas mais precisas e coerentes**.
+
+### 🔹 Controle Criativo
+Detalhes adicionais permitem **direcionar melhor a criatividade da IA**.
+
+### 🔹 Contexto Importa
+Quanto mais contexto o prompt oferece, **melhor a IA compreende o objetivo da tarefa**.
+
+---
+
+# 🖼️ Exemplo de Interface do Projeto
+
+<p align="center">
+<img src="screenshot.png" width="800">
+</p>
+
+*Interface utilizada para geração e experimentação com prompts.*
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+- Inteligência Artificial Generativa
+- Modelos de geração de imagem
+- Modelos de geração de texto
+- Markdown
+- Google Docs
+- Interface Web de experimentação
+
+---
+
+# 👨‍💻 Autores
+
+**Felipe Henrique Duranes Rodrigues**  
+**Vitor da Silva Bonilha**
+
+---
+
+# 🎓 Disciplina
+
+**Inteligência Artificial**
+
+Atividade voltada ao estudo de **Engenharia de Prompt e interação com modelos generativos de IA.**
+
+---
+
+# 📚 Conclusão
+
+A atividade demonstrou como a **engenharia de prompt é uma habilidade essencial para utilizar Inteligência Artificial de forma eficiente**.
+
+Pequenos ajustes nas instruções podem transformar completamente os resultados obtidos, tornando o domínio dessa técnica fundamental para profissionais que desejam trabalhar com **IA generativa, automação e criação de conteúdo assistida por inteligência artificial.**
+
+---
+
+<p align="center">
+
+⭐ Se este projeto te ajudou ou te inspirou, considere deixar uma estrela no repositório.
+
+</p>
