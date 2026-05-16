@@ -45,6 +45,7 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **A corrida do Prompt** | Desenvolvimento de prompts eficientes para LLMs, buscando gerar resultados específicos em texto ou imagem. O desafio consiste em atingir o melhor resultado em apenas 5 iterações, otimizando a comunicação com a IA. | [Ver Projeto](./projeto-a-corrida-do-prompt/) |
+| **Laboratório de Classificação Visual** | Treinamento de um modelo de classificação de imagens com dataset enviesado no Teachable Machine. Objetivo: identificar erros de classificação causados por viés nos dados. | [Ver Projeto](./projeto-laboratorio-de-classificação-visual/) |
 | **Engenharia de Software e IA com Bubble.io** | Aplicação web de gestão desenvolvida no Bubble com apoio de Inteligência Artificial para automação de processos e aumento de produtividade. O projeto aplica fundamentos de engenharia de software, com foco em segurança, escalabilidade e organização da arquitetura.. | [Ver Projeto](./projeto-engenharia-de-software-e-ia-com-bubble.io/) |
 | **Batalha de Modelos & Engenharia de Prompt (XML)** | O projeto consiste na criação de um prompt estruturado em XML para gerar automaticamente uma página HTML Single Page com CSS integrado, utilizando diferentes LLMs. O objetivo é avaliar a precisão, conformidade às instruções e desempenho de cada modelo de IA em tarefas de desenvolvimento front-end. | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt/) |
  
