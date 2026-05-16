@@ -46,6 +46,8 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade C
 | :--- | :--- | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Engenharia de Software e IA com Bubble.io** | Aplicação web de gestão desenvolvida no Bubble com apoio de Inteligência Artificial para automação de processos e aumento de produtividade. O projeto aplica fundamentos de engenharia de software, com foco em segurança, escalabilidade e organização da arquitetura.. | [Ver Projeto](./projeto-engenharia-de-software-e-ia-com-bubble.io/) |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | O projeto consiste na criação de um prompt estruturado em XML para gerar automaticamente uma página HTML Single Page com CSS integrado, utilizando diferentes LLMs.
+O objetivo é avaliar a precisão, conformidade às instruções e desempenho de cada modelo de IA em tarefas de desenvolvimento front-end. | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt-(xml)/) |
  
 ---
  
