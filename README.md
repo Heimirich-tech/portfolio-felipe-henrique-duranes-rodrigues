@@ -45,6 +45,7 @@ Atualmente cursando o 1º período de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| *Engenharia de Software e IA com Bubble.io* | Aplicação web de gestão desenvolvida no Bubble com apoio de Inteligência Artificial para automação de processos e aumento de produtividade. O projeto aplica fundamentos de engenharia de software, com foco em segurança, escalabilidade e organização da arquitetura.. | [Ver Projeto](./projeto-mvp-qrcode/) |
  
 ---
  
